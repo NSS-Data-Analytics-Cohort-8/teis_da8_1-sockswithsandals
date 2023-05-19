@@ -8,8 +8,10 @@ You've been provided a spreadsheet containing data on children who received IFSP
 
 Analysis Questions:
 * How many children are receiving co-visits? What is the rate of co-visits? That is, out of children how have an IFSP, how many are receiving co-visits?
-* Children can have up to 6 co-visits per year. How many are recieving all 6 visits? Are there any who are exceeding 6 visits?
-* What is the cadence of co-visits?
-* In what setting do co-visits typically occur?
+* XXXX Children can have up to 6 co-visits per year. How many are recieving all 6 visits? Are there any who are exceeding 6 visits?
+* XXXX What is the cadence of co-visits?
+* XXXX In what setting do co-visits typically occur?
 * Who is performing co-visits? Are they generally performed by the same provider or discipline or by multiple providers or disciplines? Is it more likely for a co-visit to occur if vendor services are within th esame agency? 
-* Does participation vary by service type? by point of entry?
+*XXX  Does participation vary by service type? by point of entry?
+
+**what is reasonable to expect caseload wise.Providers
