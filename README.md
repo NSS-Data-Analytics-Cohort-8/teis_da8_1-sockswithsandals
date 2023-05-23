@@ -7,7 +7,7 @@ You've been provided a spreadsheet containing data on children who received IFSP
 * Tab 2 contains a list of all children with IFSPs during the same timeframe. This includes a point of entry office, a referral date and an exit date.
 
 Analysis Questions:
-* How many children are receiving co-visits? What is the rate of co-visits? That is, out of children how have an IFSP, how many are receiving co-visits?
+* How many children are receiving co-visits? What is the rate of co-visits? That is, out of children how have an IFSP, how many are receiving co-visits?,What is the cadence of co-visits?
 * Children can have up to 6 co-visits per year. How many are recieving all 6 visits? Are there any who are exceeding 6 visits? In what setting do co-visits typically occur?
 * XXXX What is the cadence of co-visits?
 * XXXX In what setting do co-visits typically occur?
